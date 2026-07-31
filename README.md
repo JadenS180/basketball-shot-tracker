@@ -25,7 +25,6 @@ Two tracking regions are maintained relative to the rim:
 
 When the ball is seen in the down region after having been seen in the up region, a straight line is drawn between those two points and solved for where it crosses the rim's height. If that crossing point falls within the rim's horizontal span, it's a **MAKE**; otherwise, a **MISS**.
 
-This approach is adapted from [avishah3/AI-Basketball-Shot-Detection-Tracker](https://github.com/avishah3/AI-Basketball-Shot-Detection-Tracker).
 
 ### Handling a low, fixed camera
 
