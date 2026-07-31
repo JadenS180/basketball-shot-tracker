@@ -219,3 +219,17 @@ __marimo__/
 venv/
 *.pt
 data/*.db
+
+# Large local artifacts — not needed to run the pipeline, kept locally only
+media/*.mov
+media/*.mp4
+training_frames/
+review_clips/
+runs/
+data/*.npz
+*.pt
+!models/basketball_model.pt
+!models/hoop_model.pt
+models/basketball_dataset/
+models/hoop_dataset/
+.DS_Store

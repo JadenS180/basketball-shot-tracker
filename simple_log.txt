@@ -1,0 +1,3 @@
+[frame 161] MAKE — crossed rim at x=1155 (rim spans 1064-1144)
+  250 frames — makes 1, misses 0
+  500 frames — makes 1, misses 0

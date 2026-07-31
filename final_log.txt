@@ -1,0 +1,149 @@
+[frame 161] CANDIDATE crossing detected (up=(1153,300) down=(1156,315)) — holding 0.25s to confirm it's not a rattle
+[frame 169] MISS — CONFIRMED trendline crosses rim at x=1155 (rim 1064-1144), up=(1153,300,w38) down=(1162,346,w40) [held 0.25s to rule out a rattle]
+[frame 170] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(950,303) down=(1187,439)
+[frame 171] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(950,303) down=(1190,459)
+[frame 172] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(950,303) down=(1194,480)
+[frame 173] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(950,303) down=(1198,505)
+[frame 174] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(950,303) down=(1201,530)
+[frame 177] NOT A SHOT — up-point ball is 106px vs 42px expected at rim depth; too close to the camera to be a real attempt (dribble/carry). up=(950,303) down=(1215,617)
+  250 frames — makes 0, misses 1
+[frame 402] CANDIDATE crossing detected (up=(1127,294) down=(1072,470)) — holding 0.25s to confirm it's not a rattle
+[frame 411] MAKE — CONFIRMED trendline crosses rim at x=1123 (rim 1064-1144), up=(1127,294,w39) down=(1059,571,w43) [held 0.25s to rule out a rattle]
+  500 frames — makes 1, misses 1
+[frame 624] CANDIDATE crossing detected (up=(1097,292) down=(1109,341)) — holding 0.25s to confirm it's not a rattle
+[frame 634] MAKE — CONFIRMED trendline crosses rim at x=1100 (rim 1064-1145), up=(1097,292,w42) down=(1118,442,w39) [held 0.25s to rule out a rattle]
+  750 frames — makes 2, misses 1
+[frame 807] CANDIDATE crossing detected (up=(959,292) down=(939,335)) — holding 0.25s to confirm it's not a rattle
+[frame 815] MISS — CONFIRMED trendline crosses rim at x=945 (rim 1064-1146), up=(959,292,w38) down=(646,732,w22) [held 0.25s to rule out a rattle]
+[frame 897] CANDIDATE crossing detected (up=(1162,304) down=(1172,311)) — holding 0.25s to confirm it's not a rattle
+[frame 905] MISS — CONFIRMED trendline crosses rim at x=1168 (rim 1064-1146), up=(1162,304,w43) down=(1254,420,w42) [held 0.25s to rule out a rattle]
+  1000 frames — makes 2, misses 3
+[frame 1108] CANDIDATE crossing detected (up=(1098,301) down=(1116,513)) — holding 0.25s to confirm it's not a rattle
+[frame 1116] MAKE — CONFIRMED trendline crosses rim at x=1099 (rim 1064-1146), up=(1098,301,w42) down=(1135,782,w42) [held 0.25s to rule out a rattle]
+  1250 frames — makes 3, misses 3
+[frame 1275] up-point at (1460,272) is 2.57s old (limit 1.5s) — stale, clearing rather than pairing with it
+[frame 1307] CANDIDATE crossing detected (up=(1091,303) down=(1104,330)) — holding 0.25s to confirm it's not a rattle
+[frame 1315] MAKE — CONFIRMED trendline crosses rim at x=1089 (rim 1064-1147), up=(1091,303,w42) down=(1036,530,w47) [held 0.25s to rule out a rattle]
+  1500 frames — makes 4, misses 3
+[frame 1591] CANDIDATE crossing detected (up=(1031,295) down=(1047,315)) — holding 0.25s to confirm it's not a rattle
+[frame 1599] MISS — CONFIRMED trendline crosses rim at x=1013 (rim 1064-1146), up=(1031,295,w39) down=(903,409,w38) [held 0.25s to rule out a rattle]
+  1750 frames — makes 4, misses 4
+[frame 1784] CANDIDATE crossing detected (up=(996,288) down=(988,322)) — holding 0.25s to confirm it's not a rattle
+[frame 1792] MISS — CONFIRMED trendline crosses rim at x=992 (rim 1064-1146), up=(996,288,w40) down=(963,493,w39) [held 0.25s to rule out a rattle]
+[frame 1961] CANDIDATE crossing detected (up=(1079,292) down=(1128,379)) — holding 0.25s to confirm it's not a rattle
+[frame 1969] MAKE — CONFIRMED trendline crosses rim at x=1088 (rim 1064-1146), up=(1079,292,w41) down=(1157,459,w39) [held 0.25s to rule out a rattle]
+  2000 frames — makes 5, misses 5
+[frame 2186] CANDIDATE crossing detected (up=(1088,303) down=(1088,320)) — holding 0.25s to confirm it's not a rattle
+[frame 2194] MAKE — CONFIRMED trendline crosses rim at x=1088 (rim 1064-1147), up=(1088,303,w38) down=(1088,320,w41) [held 0.25s to rule out a rattle]
+[frame 2212] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1095,421)
+[frame 2213] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1097,435)
+[frame 2214] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1097,453)
+[frame 2215] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1101,468)
+[frame 2216] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1099,487)
+[frame 2217] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1101,507)
+[frame 2218] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1101,532)
+[frame 2219] BLOCKED (ball hasn't left the rim area since the last result — anti-double-count). up=(1103,301) down=(1102,556)
+[frame 2221] BLOCKED (up-point is 0.73s old, limit 0.7s). up=(1103,301) down=(1103,611)
+  2250 frames — makes 6, misses 5
+[frame 2330] CANDIDATE crossing detected (up=(1110,299) down=(907,627)) — holding 0.25s to confirm it's not a rattle
+[frame 2338] MAKE — CONFIRMED trendline crosses rim at x=1103 (rim 1065-1146), up=(1110,299,w37) down=(905,628,w17) [held 0.25s to rule out a rattle]
+  2500 frames — makes 7, misses 5
+[frame 2503] CANDIDATE crossing detected (up=(1171,298) down=(1166,325)) — holding 0.25s to confirm it's not a rattle
+[frame 2511] MISS — CONFIRMED trendline crosses rim at x=1169 (rim 1065-1145), up=(1171,298,w42) down=(1130,574,w39) [held 0.25s to rule out a rattle]
+  2750 frames — makes 7, misses 6
+[frame 2805] CANDIDATE crossing detected (up=(1172,300) down=(1177,311)) — holding 0.25s to confirm it's not a rattle
+[frame 2814] MISS — CONFIRMED trendline crosses rim at x=1175 (rim 1065-1145), up=(1172,300,w40) down=(1216,484,w37) [held 0.25s to rule out a rattle]
+[frame 2988] CANDIDATE crossing detected (up=(1159,292) down=(1142,311)) — holding 0.25s to confirm it's not a rattle
+[frame 2991] RATTLE — ball back above the rim line during confirmation (y=290 vs rim_y=311); discarding candidate crossing, continuing to watch
+  3000 frames — makes 7, misses 7
+[frame 3005] CANDIDATE crossing detected (up=(1040,301) down=(1035,312)) — holding 0.25s to confirm it's not a rattle
+[frame 3013] MISS — CONFIRMED trendline crosses rim at x=1037 (rim 1065-1145), up=(1040,301,w39) down=(994,465,w40) [held 0.25s to rule out a rattle]
+[frame 3246] CANDIDATE crossing detected (up=(1115,113) down=(1167,508)) — holding 0.25s to confirm it's not a rattle
+[frame 3247] RATTLE — ball back above the rim line during confirmation (y=116 vs rim_y=311); discarding candidate crossing, continuing to watch
+[frame 3248] CANDIDATE crossing detected (up=(1114,116) down=(1037,591)) — holding 0.25s to confirm it's not a rattle
+[frame 3249] RATTLE — ball back above the rim line during confirmation (y=131 vs rim_y=311); discarding candidate crossing, continuing to watch
+  3250 frames — makes 7, misses 8
+[frame 3279] CANDIDATE crossing detected (up=(1101,298) down=(1070,590)) — holding 0.25s to confirm it's not a rattle
+[frame 3287] MAKE — CONFIRMED trendline crosses rim at x=1106 (rim 1064-1146), up=(1101,298,w39) down=(1225,607,w23) [held 0.25s to rule out a rattle]
+[frame 3400] NOT A SHOT — up-point ball is 132px vs 43px expected at rim depth; too close to the camera to be a real attempt (dribble/carry). up=(1225,309) down=(1229,349)
+  3500 frames — makes 8, misses 8
+[frame 3525] CANDIDATE crossing detected (up=(1118,143) down=(1136,430)) — holding 0.25s to confirm it's not a rattle
+[frame 3526] RATTLE — ball back above the rim line during confirmation (y=203 vs rim_y=311); discarding candidate crossing, continuing to watch
+[frame 3539] CANDIDATE crossing detected (up=(1111,235) down=(1262,647)) — holding 0.25s to confirm it's not a rattle
+[frame 3548] MAKE — CONFIRMED trendline crosses rim at x=1139 (rim 1065-1146), up=(1111,235,w41) down=(1262,647,w57) [held 0.25s to rule out a rattle]
+[frame 3679] CANDIDATE crossing detected (up=(1110,289) down=(1135,430)) — holding 0.25s to confirm it's not a rattle
+[frame 3687] MAKE — CONFIRMED trendline crosses rim at x=1114 (rim 1065-1147), up=(1110,289,w39) down=(1179,631,w45) [held 0.25s to rule out a rattle]
+  3750 frames — makes 10, misses 8
+[frame 3789] CANDIDATE crossing detected (up=(1104,301) down=(926,724)) — holding 0.25s to confirm it's not a rattle
+[frame 3806] MAKE — CONFIRMED trendline crosses rim at x=1100 (rim 1065-1146), up=(1104,301,w41) down=(926,724,w21) [held 0.25s to rule out a rattle]
+  4000 frames — makes 11, misses 8
+[frame 4109] CANDIDATE crossing detected (up=(1079,295) down=(1078,328)) — holding 0.25s to confirm it's not a rattle
+[frame 4117] DEFLECTION — confirmed crossing looked like a make but: ball oversized at the crossing itself (71px vs 44px expected) — in front of the net, not through it
+[frame 4117] MISS — CONFIRMED trendline crosses rim at x=1078 (rim 1065-1148), up=(1079,295,w58) down=(1052,732,w71) [held 0.25s to rule out a rattle]
+[frame 4147] NOT A SHOT — up-point ball is 81px vs 43px expected at rim depth; too close to the camera to be a real attempt (dribble/carry). up=(916,260) down=(904,315)
+  4250 frames — makes 11, misses 9
+[frame 4335] CANDIDATE crossing detected (up=(1167,297) down=(1171,316)) — holding 0.25s to confirm it's not a rattle
+[frame 4343] MISS — CONFIRMED trendline crosses rim at x=1169 (rim 1065-1148), up=(1167,297,w44) down=(1213,559,w50) [held 0.25s to rule out a rattle]
+  4500 frames — makes 11, misses 10
+[frame 4558] CANDIDATE crossing detected (up=(954,298) down=(911,360)) — holding 0.25s to confirm it's not a rattle
+[frame 4569] MISS — CONFIRMED trendline crosses rim at x=949 (rim 1065-1147), up=(954,298,w42) down=(823,649,w39) [held 0.25s to rule out a rattle]
+  4750 frames — makes 11, misses 11
+[frame 4824] CANDIDATE crossing detected (up=(1103,299) down=(1112,436)) — holding 0.25s to confirm it's not a rattle
+[frame 4832] MAKE — CONFIRMED trendline crosses rim at x=1103 (rim 1065-1147), up=(1103,299,w42) down=(1101,630,w39) [held 0.25s to rule out a rattle]
+[frame 4945] CANDIDATE crossing detected (up=(1088,304) down=(1208,618)) — holding 0.25s to confirm it's not a rattle
+[frame 4954] MAKE — CONFIRMED trendline crosses rim at x=1090 (rim 1065-1148), up=(1088,304,w41) down=(1162,619,w19) [held 0.25s to rule out a rattle]
+  5000 frames — makes 13, misses 11
+  5250 frames — makes 13, misses 11
+  5500 frames — makes 13, misses 11
+[frame 5719] CANDIDATE crossing detected (up=(1092,295) down=(1098,466)) — holding 0.25s to confirm it's not a rattle
+[frame 5727] MAKE — CONFIRMED trendline crosses rim at x=1093 (rim 1065-1148), up=(1092,295,w40) down=(1109,703,w41) [held 0.25s to rule out a rattle]
+  5750 frames — makes 14, misses 11
+[frame 5952] CANDIDATE crossing detected (up=(1159,306) down=(1152,311)) — holding 0.25s to confirm it's not a rattle
+[frame 5957] RATTLE — ball back above the rim line during confirmation (y=289 vs rim_y=311); discarding candidate crossing, continuing to watch
+[frame 5967] CANDIDATE crossing detected (up=(1200,304) down=(1205,314)) — holding 0.25s to confirm it's not a rattle
+[frame 5975] MISS — CONFIRMED trendline crosses rim at x=1202 (rim 1065-1147), up=(1200,304,w40) down=(1246,461,w48) [held 0.25s to rule out a rattle]
+  6000 frames — makes 14, misses 12
+[frame 6021] CANDIDATE crossing detected (up=(1132,305) down=(1208,586)) — holding 0.25s to confirm it's not a rattle
+[frame 6030] MAKE — CONFIRMED trendline crosses rim at x=1133 (rim 1065-1146), up=(1132,305,w38) down=(1213,631,w30) [held 0.25s to rule out a rattle]
+[frame 6186] CANDIDATE crossing detected (up=(1096,300) down=(1141,366)) — holding 0.25s to confirm it's not a rattle
+[frame 6196] MAKE — CONFIRMED trendline crosses rim at x=1099 (rim 1065-1146), up=(1096,300,w39) down=(1143,464,w40) [held 0.25s to rule out a rattle]
+  6250 frames — makes 16, misses 12
+
+Done. 6473 frames
+Ball detected in 4916 frames (75.9%)
+Makes: 16   Misses: 12   Attempts: 28
+FG%: 57.1%
+
+All attempts (check these timestamps against the video):
+   1. 0:05.6  MISS
+   2. 0:13.7  MAKE
+   3. 0:21.1  MAKE
+   4. 0:27.2  MISS
+   5. 0:30.2  MISS
+   6. 0:37.2  MAKE
+   7. 0:43.8  MAKE
+   8. 0:53.3  MISS
+   9. 0:59.7  MISS
+  10. 1:05.6  MAKE
+  11. 1:13.1  MAKE
+  12. 1:17.9  MAKE
+  13. 1:23.7  MISS
+  14. 1:33.8  MISS
+  15. 1:40.4  MISS
+  16. 1:49.6  MAKE
+  17. 1:58.3  MAKE
+  18. 2:02.9  MAKE
+  19. 2:06.9  MAKE
+  20. 2:17.2  MISS
+  21. 2:24.8  MISS
+  22. 2:32.3  MISS
+  23. 2:41.1  MAKE
+  24. 2:45.1  MAKE
+  25. 3:10.9  MAKE
+  26. 3:19.2  MISS
+  27. 3:21.0  MAKE
+  28. 3:26.5  MAKE
+
+Raw events: [(169, 'MISS', '5.6s'), (411, 'MAKE', '13.7s'), (634, 'MAKE', '21.1s'), (815, 'MISS', '27.2s'), (905, 'MISS', '30.2s'), (1116, 'MAKE', '37.2s'), (1315, 'MAKE', '43.8s'), (1599, 'MISS', '53.3s'), (1792, 'MISS', '59.7s'), (1969, 'MAKE', '65.6s'), (2194, 'MAKE', '73.1s'), (2338, 'MAKE', '77.9s'), (2511, 'MISS', '83.7s'), (2814, 'MISS', '93.8s'), (3013, 'MISS', '100.4s'), (3287, 'MAKE', '109.6s'), (3548, 'MAKE', '118.3s'), (3687, 'MAKE', '122.9s'), (3806, 'MAKE', '126.9s'), (4117, 'MISS', '137.2s'), (4343, 'MISS', '144.8s'), (4569, 'MISS', '152.3s'), (4832, 'MAKE', '161.1s'), (4954, 'MAKE', '165.1s'), (5727, 'MAKE', '190.9s'), (5975, 'MISS', '199.2s'), (6030, 'MAKE', '201.0s'), (6196, 'MAKE', '206.5s')]
+Static filter: no static false positives detected
+Output: media/final_output.mp4

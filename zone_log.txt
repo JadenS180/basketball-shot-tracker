@@ -1,0 +1,55 @@
+[frame 136] ATTEMPT — ball entered hoop zone at (1062,36)
+[frame 161] MAKE — crossed rim at x=1155 (rim 1064-1145)
+  250 frames — makes 1, misses 0
+[frame 378] ATTEMPT — ball entered hoop zone at (1277,206)
+[frame 385] MISS — left the hoop zone without dropping through
+  500 frames — makes 1, misses 1
+[frame 607] ATTEMPT — ball entered hoop zone at (934,86)
+[frame 624] MAKE — crossed rim at x=1102 (rim 1064-1145)
+  750 frames — makes 2, misses 1
+[frame 782] ATTEMPT — ball entered hoop zone at (977,244)
+[frame 807] MISS — crossed rim at x=950 (rim 1064-1146)
+[frame 873] ATTEMPT — ball entered hoop zone at (983,223)
+[frame 897] MISS — crossed rim at x=1172 (rim 1064-1146)
+  1000 frames — makes 2, misses 3
+[frame 1076] ATTEMPT — ball entered hoop zone at (1280,49)
+[frame 1093] MISS — left the hoop zone without dropping through
+[frame 1133] ATTEMPT — ball entered hoop zone at (1202,494)
+[frame 1137] MISS — left the hoop zone without dropping through
+  1250 frames — makes 2, misses 5
+[frame 1275] ATTEMPT — ball entered hoop zone at (1257,346)
+[frame 1294] MISS — left the hoop zone without dropping through
+  1500 frames — makes 2, misses 6
+[frame 1584] ATTEMPT — ball entered hoop zone at (929,207)
+[frame 1591] MISS — crossed rim at x=1044 (rim 1064-1146)
+  1750 frames — makes 2, misses 7
+[frame 1759] ATTEMPT — ball entered hoop zone at (982,253)
+[frame 1782] MISS — left the hoop zone without dropping through
+[frame 1945] ATTEMPT — ball entered hoop zone at (926,138)
+[frame 1961] MAKE — crossed rim at x=1090 (rim 1064-1146)
+  2000 frames — makes 3, misses 8
+[frame 2169] ATTEMPT — ball entered hoop zone at (1273,48)
+[frame 2186] MAKE — crossed rim at x=1088 (rim 1064-1147)
+[frame 2212] ATTEMPT — ball entered hoop zone at (1095,421)
+[frame 2217] MISS — left the hoop zone without dropping through
+  2250 frames — makes 4, misses 9
+[frame 2293] ATTEMPT — ball entered hoop zone at (970,489)
+[frame 2337] MISS — left the hoop zone without dropping through
+[frame 2485] ATTEMPT — ball entered hoop zone at (1280,32)
+  2500 frames — makes 4, misses 10
+[frame 2503] MISS — crossed rim at x=1169 (rim 1065-1145)
+  2750 frames — makes 4, misses 11
+[frame 2776] ATTEMPT — ball entered hoop zone at (943,121)
+[frame 2805] MISS — crossed rim at x=1177 (rim 1065-1145)
+[frame 2981] ATTEMPT — ball entered hoop zone at (1268,196)
+[frame 2988] MAKE — crossed rim at x=1142 (rim 1065-1145)
+  3000 frames — makes 5, misses 12
+[frame 3012] ATTEMPT — ball entered hoop zone at (1000,435)
+[frame 3087] MISS — timed out in zone
+[frame 3205] ATTEMPT — ball entered hoop zone at (1121,457)
+[frame 3206] MISS — left the hoop zone without dropping through
+[frame 3235] ATTEMPT — ball entered hoop zone at (1126,223)
+[frame 3246] MISS — left the hoop zone without dropping through
+  3250 frames — makes 5, misses 15
+[frame 3330] ATTEMPT — ball entered hoop zone at (1213,472)
+[frame 3400] MISS — crossed rim at x=1225 (rim 1065-1146)
