@@ -1,14 +1,31 @@
 # Basketball Shot Tracker
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![YOLOv8](https://img.shields.io/badge/model-YOLOv8-orange)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![Accuracy](https://img.shields.io/badge/accuracy-28%2F29%20(96.6%25)-brightgreen)
+
 A computer vision pipeline that watches recorded basketball footage from a single fixed camera and automatically detects each shot attempt, classifying it as a **MAKE** or **MISS**.
 
 Built on a fine-tuned YOLOv8 model and OpenCV, running against a low-angle backyard-hoop camera — the kind of setup where the ball is small, fast, and frequently occluded, and where simple 2D geometry can be fooled by real 3D depth (a ball bouncing in front of the net looks, in a flat image, a lot like a ball dropping through it).
 
-**Result on the test video: 28/29 shots correctly classified (96.6%), zero false positives.**
-
 ## Demo
 
-`media/final_output.mp4` (generated locally, not committed — see [Media](#media) below) shows the detector running live: the rim, the tracking regions, and each MAKE/MISS call overlaid on the original footage.
+![demo](assets/demo.gif)
+
+*Live output: rim detection, the tracking regions, and the MAKE/MISS call for each shot, overlaid on the original footage.*
+
+## Results
+
+| Metric | Value |
+|---|---|
+| Shots correctly classified | **28 / 29 (96.6%)** |
+| False positives | **0** |
+| Make/miss errors | **0** |
+| Undetected (pure ball-detection miss) | 1 |
+
+The one miss is a case where the YOLO model never detected the ball at all during that shot's rise — see [Known limitations](#known-limitations).
+
 
 ## How it works
 
